@@ -1,0 +1,23 @@
+.hero {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 140px;
+  box-sizing: border-box;
+}
+
+.hero-1 {
+  background-image: url(https://hips.hearstapps.com/hmg-prod/images/tesla-model-y-teaser-1552417691.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hero h1 {
+  justify-content: center;
+  align-items: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 48px;
+  border: 5px solid #fff;
+  padding: 20px;
+}

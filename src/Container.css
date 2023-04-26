@@ -1,0 +1,37 @@
+.about {
+  padding-top: 30px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+img {
+  border-radius: 5px;
+}
+
+.btn-a {
+  padding: 10px 18px;
+  border: 2px solid #0f2240;
+  background-color: #c2c9d4;
+  text-decoration: none;
+  color: #0f2240;
+  border-radius: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.btn-a:hover {
+  background-color: #0f2240;
+  color: #faebd7;
+}
+
+.about-title {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: justify;
+}

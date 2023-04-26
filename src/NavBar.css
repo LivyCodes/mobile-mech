@@ -1,0 +1,20 @@
+.container-fluid {
+  padding-right: 0;
+}
+
+.nav-link,
+.dropdown-item {
+  font-size: 15px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif, Arial, sans-serif;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+  color: #100f0f;
+}
+
+.dropdown-item:hover {
+  text-decoration: underline;
+  color: #100f0f;
+}

@@ -1,0 +1,7 @@
+.row {
+  margin-top: 15px;
+}
+.col-5,
+.col-4 {
+  margin: 7px auto;
+}
