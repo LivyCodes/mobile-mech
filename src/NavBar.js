@@ -114,11 +114,6 @@ function NavBar() {
                     SUSPENSION
                   </a>
                 </li>
-                <li>
-                  <a className="dropdown-item" href="#link">
-                    MACHINING
-                  </a>
-                </li>
               </ul>
             </li>
             <li className="nav-item dropdown">

@@ -7,6 +7,7 @@ function Container() {
       <div className="container">
         <h4 className="about-title">OUR SERVICES</h4>
         <div className="row mb-5 mt-5">
+          <h4 className="about-title">CAR WARRANTY SERVICES</h4>
           <div className="col">
             <img
               src="https://myopal.com.my/wp-content/uploads/2021/01/landing-page-motor-insurance.jpg"
@@ -15,7 +16,6 @@ function Container() {
             />
           </div>
           <div className="col about">
-            <h4 className="about-title">CAR WARRANTY SERVICES</h4>
             <p>
               The car warranty services provided by our company include
               comprehensive coverage, odometer checks, and vehicle condition
@@ -31,9 +31,9 @@ function Container() {
             </button>
           </div>
         </div>
-        <div className="row mb-5 mt-5">
+        <div className="row row-a mb-5 mt-5">
+          <h4 className="about-title one-a">DATA SCAN SERVICES</h4>
           <div className="col about">
-            <h4 className="about-title">DATA SCAN SERVICES</h4>
             <p>
               Our company provides data scan services for vehicles that aim to
               identify issues affecting the car's performance using diagnostic
@@ -58,6 +58,7 @@ function Container() {
           </div>
         </div>
         <div className="row mb-5 mt-5">
+          <h4 className="about-title">GARAGE SERVICES</h4>
           <div className="col">
             <img
               src="https://media.istockphoto.com/id/897283320/vector/car-repair.jpg?s=170667a&w=0&k=20&c=hgBqkHkMe6rlBfLq4n32Jlm7AXC_2e8EV508VKVa0J4="
@@ -66,7 +67,6 @@ function Container() {
             />
           </div>
           <div className="col about">
-            <h4 className="about-title">GARAGE SERVICES</h4>
             <p>
               Our company provides a range of garage services to ensure that
               vehicles run smoothly and efficiently. Services offered include
@@ -83,9 +83,9 @@ function Container() {
             </button>
           </div>
         </div>
-        <div className="row mb-5 mt-5">
+        <div className="row row-a mb-5 mt-5">
+          <h4 className="about-title one-a">EMERGENCY SERVICES</h4>
           <div className="col about">
-            <h4 className="about-title">EMERGENCY SERVICES</h4>
             <p>
               Our company provides emergency vehicle services that include 24/7
               roadside assistance and standby core services to help drivers get
@@ -110,6 +110,7 @@ function Container() {
           </div>
         </div>
         <div className="row mb-5 mt-5">
+          <h4 className="about-title">CAR RENTAL SERVICES</h4>
           <div className="col">
             <img
               src="https://cdn.goseetravel.com/public/Cars/car-keys-hands-rental__ScaleMaxHeightWzQ3MF0.jpg"
@@ -118,7 +119,6 @@ function Container() {
             />
           </div>
           <div className="col about">
-            <h4 className="about-title">CAR RENTAL SERVICES</h4>
             <p>
               Our company provides car rental services with a range of vehicles
               available to rent for various durations, including daily, weekly,

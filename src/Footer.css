@@ -1,0 +1,32 @@
+.heros {
+  background-color: #0d233b;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+.heros p {
+  color: #faebd7;
+  text-align: center;
+}
+.list-item {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0 30px;
+}
+
+.list-item:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 912px) {
+  .heros {
+    display: flex;
+  }
+
+  .heros p {
+    font-size: 15px;
+  }
+}

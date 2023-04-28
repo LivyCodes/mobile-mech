@@ -2,6 +2,7 @@ import React from "react";
 import NavBar from "./NavBar";
 import Hero from "./hero";
 import ContentMain from "./Content";
+import Footer from "./Footer";
 import "./MainPage.css";
 
 function MainPage() {
@@ -13,6 +14,7 @@ function MainPage() {
       <div className="mains">
         <Hero />
         <ContentMain />
+        <Footer />
       </div>
     </div>
   );

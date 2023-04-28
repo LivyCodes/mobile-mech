@@ -35,3 +35,14 @@ p {
   font-family: Georgia, "Times New Roman", Times, serif;
   text-align: justify;
 }
+
+@media (max-width: 912px) {
+  .row {
+    display: flex;
+    flex-direction: column;
+  }
+  .row-a {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
